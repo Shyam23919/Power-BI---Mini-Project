@@ -1,3 +1,3 @@
 # Power-BI---Mini-Project
-Mini Project
+
 This project analyzes the Boston Housing dataset, which contains 506 records and 14 attributes related to housing conditions in Boston suburbs. The objective is to predict the median value of owner-occupied homes (MEDV) using features such as crime rate, number of rooms, property tax, and highway accessibility. Through data cleaning, normalization, visualization, and correlation analysis, the project identifies key factors influencing housing prices. Tools like Excel and Power BI are used for exploration and insight generation, demonstrating the practical application of data analysis techniques in understanding real estate trends.
